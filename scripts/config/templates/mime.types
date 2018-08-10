@@ -74,4 +74,7 @@ types {
     video/x-ms-asf                        asx asf;
     video/x-ms-wmv                        wmv;
     video/x-msvideo                       avi;
+
+    application/vnd.apple.mpegurl         m3u8;
+    video/mp2t                            ts;
 }
